@@ -14,3 +14,4 @@
   -ordier, unorder, defination, sested
 14. link 
 -absolute link vs relative link
+15. img
