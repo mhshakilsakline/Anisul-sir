@@ -11,4 +11,6 @@
 11. None semantic tag - div, span
 12. text formating tags
 13. list 
+  -ordier, unorder, defination, sested
 14. link 
+-absolute link vs relative link
